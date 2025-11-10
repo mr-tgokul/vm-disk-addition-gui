@@ -101,7 +101,6 @@ The VM Disk Addition Tool is a PowerShell GUI script designed to simplify the pr
 ---
 
 ## **Screenshots**
-*(Add screenshots of your GUI here for better visual documentation)*
 <img width="883" height="692" alt="image" src="https://github.com/user-attachments/assets/1b73b43f-4503-4232-b740-4ecbea83db87" />
 
 ---
